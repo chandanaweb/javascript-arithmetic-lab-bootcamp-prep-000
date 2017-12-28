@@ -12,3 +12,4 @@ function divide(a,b){
 };
 function inc(a){return ++a ;};
  function dec(a){return --a ;};
+function makeInt(n){return parseInt(n)};
